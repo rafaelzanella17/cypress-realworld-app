@@ -74,6 +74,193 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "QJLHUOKMV",
+      "uuid": "5fd552ff-c433-4762-8d9c-56e9b280f868",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$gIOeNDO6b4PtuEsrtoo/yO4HmkDg0ZWiYipmOrruBVwcoo4YNC/Wi",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:51:04.074Z",
+      "modifiedAt": "2024-12-21T11:51:04.074Z"
+    },
+    {
+      "id": "91Cr_B8yk",
+      "uuid": "de2e737c-7772-4071-8875-8a5282624c27",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$mtzKCMrXeI6K4L0K5LZET.ZeLh30aNcs0yY/KbI.5S2VpEtl4b3tK",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:51:54.598Z",
+      "modifiedAt": "2024-12-21T11:51:54.598Z"
+    },
+    {
+      "id": "ZquJehoWT",
+      "uuid": "8583000b-305d-47ec-8a61-f619f1ff5908",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$UO3VhBsj9n0YMIqr0/kaL.Ss/6cK5f/wbiIlalN5TXGlQCxvzPS7u",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:00.230Z",
+      "modifiedAt": "2024-12-21T11:52:00.230Z"
+    },
+    {
+      "id": "MfD85-hAl",
+      "uuid": "c0a1e09e-ade4-4be9-8f04-cd69c94e4fea",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$v2L3apFwJWMVaZLnVfNpTOvSRBJgWhpHOznpx32S.M33fI5FjXdcC",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:10.213Z",
+      "modifiedAt": "2024-12-21T11:52:10.213Z"
+    },
+    {
+      "id": "ITc7ri62h",
+      "uuid": "2e899346-1047-435e-8bd6-95ba64a0bb2c",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$BN0Ttl.pSUUTS879zXzd.eTTBPIsdtXhGvNzLbt9x3zEvbw/ykblW",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:13.839Z",
+      "modifiedAt": "2024-12-21T11:52:13.839Z"
+    },
+    {
+      "id": "tUMeajbji",
+      "uuid": "2225b1be-5d0d-4ae8-8430-e1dc51ea2e91",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$s7X1HaZ.7z8cVfsaaNjSsu/U/mdyXgUwmhgENe9yGyYK4rleDoFPK",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:17.334Z",
+      "modifiedAt": "2024-12-21T11:52:17.334Z"
+    },
+    {
+      "id": "zSu3AaoII",
+      "uuid": "59204c1d-47b4-4d5c-9519-f220425eab08",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$H3Xlv6/Smj9nI/7cdCxMpu/gKhrbs7G7OeI00FfCKREh3U0CLGFIm",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:22.770Z",
+      "modifiedAt": "2024-12-21T11:52:22.770Z"
+    },
+    {
+      "id": "DlMv4dga7",
+      "uuid": "2f8b4737-d397-487c-957c-c382009c3c7a",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$6tiMw2xCnlw6PVZhCshZw.tEIDE0bgcwHr6NafV93Twqeqs42o4c.",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:30.948Z",
+      "modifiedAt": "2024-12-21T11:52:30.948Z"
+    },
+    {
+      "id": "e5x29agi_",
+      "uuid": "b47a014a-ca00-4310-a1f9-98e780750113",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$JNA/F5SR8eGJgE3ttYjJe.2BZyp8xOILlXFabxH/JZVya53mhVEqm",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:43.772Z",
+      "modifiedAt": "2024-12-21T11:52:43.772Z"
+    },
+    {
+      "id": "UFIPrlIuP",
+      "uuid": "8e08c82f-99d6-4cae-9529-501e78638782",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$qIwrQb6ncrDPrlmgXn.smOUSJwq/3JSL6gF5k9hWU3xFQKf6Ll8bG",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:52:48.526Z",
+      "modifiedAt": "2024-12-21T11:52:48.526Z"
+    },
+    {
+      "id": "9RBSnrLBL",
+      "uuid": "1a10e17a-1995-43e4-bc5d-475d3f829cff",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$wO2VOzroeqesAnL0wpIQgeyvOhz2iNkrngzb0bqi32rSz2TMXYhHm",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:53:07.736Z",
+      "modifiedAt": "2024-12-21T11:53:07.736Z"
+    },
+    {
+      "id": "pN-EB-Hel",
+      "uuid": "25729f1a-642d-450b-aab6-1c0564716489",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$eobccW5uxjPaoLcdMd9lZui9MuFU2yJcDdkWkFIcfcMiQJYrAFBi2",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:53:15.430Z",
+      "modifiedAt": "2024-12-21T11:53:15.430Z"
+    },
+    {
+      "id": "GgqeizQRC",
+      "uuid": "68782b1a-454c-458f-82d8-6be270cd1645",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$rWR.cIpx/w/.9p4RFwYcsuKhMZK4K5MqN6eMe68gkOZfajk5E0jzi",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:53:21.777Z",
+      "modifiedAt": "2024-12-21T11:53:21.777Z"
+    },
+    {
+      "id": "V0C4bTxyp",
+      "uuid": "da62dd8e-bd16-47f1-8953-8c50a838ffd0",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$4bNLZE4X8cBr37t1gNKL3eB.AcaAbgNvVoNLp3rmlV9IRL.4mLMb6",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:53:30.407Z",
+      "modifiedAt": "2024-12-21T11:53:30.407Z"
+    },
+    {
+      "id": "QsxGrkw7u",
+      "uuid": "f156ea00-6a7f-460a-891b-f7e1f641f0d7",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$xrJwx6lMYST3Yog05jCrKONKjM40NVFHnnzqI0bmJMwh6HsuDhQDm",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:53:53.535Z",
+      "modifiedAt": "2024-12-21T11:53:53.535Z"
+    },
+    {
+      "id": "ytNTnjBkg",
+      "uuid": "e686a712-9bcb-41db-a817-2cba1ac25887",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$0ooj4D6v/OPNYyC8qWlTnuChtdnd70sjxLnPKgWRxf2TtDp/sXKnG",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:57:52.292Z",
+      "modifiedAt": "2024-12-21T11:57:52.292Z"
+    },
+    {
+      "id": "BTvI5-v2-",
+      "uuid": "66a26ad2-d17c-4018-b8c0-472bc934d318",
+      "firstName": "Rafael",
+      "lastName": "Zanella",
+      "username": "rafaelzanella",
+      "password": "$2a$10$vN4dM0rz9UOh0pz0JAHlIOerGb437p0D2w.vwoPNLFDh74EOncxzC",
+      "balance": 0,
+      "createdAt": "2024-12-21T11:58:24.759Z",
+      "modifiedAt": "2024-12-21T11:58:24.759Z"
     }
   ],
   "contacts": [
